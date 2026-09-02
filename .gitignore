@@ -1,0 +1,25 @@
+node_modules/
+dist/
+build/
+coverage/
+
+.env
+.env.local
+.env.*.local
+backend/.env
+
+backend/runtime/
+backend/data/*.json
+
+.DS_Store
+Thumbs.db
+*.zip
+
+.idea/
+.vscode/
+
+# Local development artifacts and legacy copies
+logo-selection.html
+textile-manufacturing-app/
+deploy-full/
+El Badrawi Group pics/

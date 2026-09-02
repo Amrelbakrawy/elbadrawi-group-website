@@ -1,0 +1,13 @@
+:root {
+  --background: #ffffff;
+  --foreground: #111827;
+  --panel: #f4f0e8;
+  --panel-strong: #e8dfd1;
+  --muted: #f6f7f8;
+  --muted-foreground: #5f6673;
+  --accent: #c8a861;
+  --border: rgba(17, 24, 39, 0.13);
+  --shadow-soft: 0 24px 60px rgba(17, 24, 39, 0.06);
+  --font-body: "Inter", "Helvetica Neue", Arial, sans-serif;
+  --font-heading: "Playfair Display", Georgia, serif;
+}
